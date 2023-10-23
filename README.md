@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhangmishra5
 - 👀 I’m interested in coding and electrical experiments
-- 🌱 I’m currently learning electrical engineering and python programming language
+- 🌱 I’m currently learning web development and python programming language
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me india
 
