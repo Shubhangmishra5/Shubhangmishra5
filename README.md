@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Shubhang mishra
+# Hi there! 👋 I'm Shubhang Mishra
 
-![Header Image](https://yourimageurl.com/header-image.png)  
+![image](https://github.com/user-attachments/assets/8145d301-deea-481b-811b-2d1eec4ac9bb)
+
 
 🚀 **Engineering Student | IoT Enthusiast | AI & Embedded Systems Developer**
 
@@ -57,9 +58,9 @@
 
 ### 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhangmishra5&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangmishra5&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhangmishra5&theme=radical)  
 
 ---
 
