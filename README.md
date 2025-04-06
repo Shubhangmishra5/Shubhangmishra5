@@ -22,7 +22,7 @@
 
 - **Programming:** Python, C, C++, JavaScript, HTML, CSS, SQL  
 - **Embedded Systems:** Raspberry Pi, ESP32, Arduino, Modbus, Sensors & Actuators  
-- **AI/ML:** Deep Neural Networks, OpenCV, TensorFlow, PyTorch, Machine Learning    
+- **AI/ML:** TensorFlow, PyTorch, Machine Learning    
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js  
 - **Tools & Platforms:** GitHub, VS Code, Docker, Firebase, IoT Dashboards, Linux  
 
